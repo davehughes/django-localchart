@@ -1,0 +1,2 @@
+# Requires django to run, but declaring it here would put the cart before the horse
+pytz==2013.8
